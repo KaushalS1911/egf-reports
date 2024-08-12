@@ -68,7 +68,7 @@ function TableData_2() {
                   <td>{customer.firstName}</td>
                   <td>{customer.lastName}</td>
                   <td>{customer.email}</td>
-                  <td>{customer.phoneNo}</td>
+                  <td>{customer.PhoneNo}</td>
                   <td>{customer.country}</td>
                   <td>{customer.pincode}</td>
                   <td>{customer.city}</td>
